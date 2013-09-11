@@ -12,11 +12,11 @@ If there are no legal moves or one side is eliminated then inform the user the g
 The suggested board output format is ASCII, use a dot (.) for empty squares, X for black and O for white.  
 The initial board layout would look like this: 
 
-. X . X . X . X 
-X . X . X . X . 
-. X . X . X . X 
-. . . . . . . . 
-. . . . . . . . 
-O . O . O . O . 
-. O . O . O . O 
-O . O . O . O . 
+      . X . X . X . X   
+      X . X . X . X .   
+      . X . X . X . X   
+      . . . . . . . .   
+      . . . . . . . .   
+      O . O . O . O .   
+      . O . O . O . O   
+      O . O . O . O .   
